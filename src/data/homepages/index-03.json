@@ -1,0 +1,192 @@
+{
+    "name": "index-03",
+    "content": [
+        {
+            "section": "hero-area",
+            "headings": [
+                {
+                    "id":1,
+                    "content":"Commence Business"
+                },
+                {
+                    "id":2,
+                    "content":"Distant Mentoring Program"
+                }
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download free guidebook ",
+                    "icon": "far fa-long-arrow-right",
+                    "color": "light"
+                }
+            ],
+            "images": [
+                {
+                    "id":1,
+                    "src": "/images/intro/intro3/bg-1.jpg"
+                }
+            ]
+        },
+        {
+            "section": "about-area",
+            "section_title": {
+                "title": "Learn about our <span>Work Culture</span> at MaxCoach",
+                "subtitle": "Get to know about <strong>MaxCoach</strong>",
+                "description": "Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month."
+            },
+            "motto": {
+                "text": "Have questions?​",
+                "path": "/contact-us",
+                "pathText": "Get Free Form"
+            },
+            "images": [
+                {
+                    "id": 1,
+                    "src": "/images/about/about01/about1.jpg"
+                },
+                {
+                    "id": 2,
+                    "src": "/images/about/about01/about2.jpg"
+                }
+            ]
+        }, 
+        {
+            "section": "funfact-area",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Registered Enrolls",
+                    "suffix": "+",
+                    "counter": 3.092
+                },
+                {
+                    "id": 2,
+                    "title": "Finished sessions",
+                    "counter": 1.926
+                },
+                {
+                    "id": 3,
+                    "title": "Satisfaction rate",
+                    "suffix": "%",
+                    "counter": 100
+                }
+            ]
+        }, 
+        {
+            "section": "video-area",
+            "section_title": {
+                "title": "Upgrade Your Skills <span>Upgrade Your Life</span>",
+                "subtitle": "how we work",
+                "description": "Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month."
+            },
+            "motto": {
+                "path": "/start-here",
+                "pathText": "Download free guidebook "
+            },
+            "images": [
+                {
+                    "id": 1,
+                    "src": "/images/video/about-video.jpg"
+                }
+            ],
+            "video": {
+                "videoId": "eS9Qm4AOOBY",
+                "channel": "youtube"
+            }
+        },
+        {
+            "section": "course-area",
+            "section_title": {
+                "title": "Latest Online <span>Courses</span>",
+                "subtitle":"Join MaxCoach at best"
+            },
+            "motto": {
+                "text": "Get the most dedicated consultation for your life-changing course. Earn a certification for your effort and passion",
+                "path": "/courses/grid-01",
+                "pathText": "Get Free Guide"
+            }
+        },
+        {
+            "section": "testimonial-area",
+            "section_title": {
+                "title": "Why Do People <span>*Hearts* </span> Us?",
+                "subtitle": "Testimonials",
+                "description": "Seeking for verbals of our service quality? Find them here. Everything is transparent and straightforward for your sense of jusitifcation."
+            },
+            "motto": {
+                "text": "Have questions?",
+                "path": "/start-here",
+                "pathText": "Get Free Form"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "title": "High level of efficiency and scientific teaching methods",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Madley Pondor",
+                    "designation": "IT Specialist",
+                    "title": "Professional team of specialists and passionate mentors at reach",
+                    "description": "I need to get a certification for English proficiency and MaxCoach is my best choice. Their tutors are smart and professional when dealing with students.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",
+                    "title": "Highly recommend their courses and teaching system",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-3.jpg"
+                        }
+                    ] 
+                }
+            ]
+        }, 
+        {
+            "section": "team-area",
+            "section_title": {
+                "title": "We’re Here To <span>Transform</span> You!",
+                "subtitle": "Everything in <strong>MaxCoach</strong>",
+                "description": "As learners, people can enjoy great companionship from MaxCoach mentors and educators. We can help you develop and grow at your best. "
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/start-here",
+                    "content": "Get Free Guide"
+                }
+            ]
+        },
+        {
+            "section": "blog-area",
+            "section_title": {
+                "title": "Latest From <span>Our Blogs</span>",
+                "subtitle":"Read for more joyment"
+            }
+        },
+        {
+            "section": "newsletter-area",
+            "section_title": {
+                "title": "Sign up for our <span>Newsletters</span>",
+                "description":"Enter your email address to register to our newsletter subscription <br class='tw-hidden md:tw-block'>delivered on a regular basis!"
+            }
+        }
+    ]
+}

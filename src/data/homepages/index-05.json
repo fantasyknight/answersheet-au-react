@@ -1,0 +1,270 @@
+{
+    "name": "index-05",
+    "content": [
+        {
+            "section": "hero-area",
+            "headings": [
+                {
+                    "id":1,
+                    "content":"Complete Your Dreams in Java Programming "
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Learn any coding program in distance and for a reasonable fee. You don't have to struggle alone, you've got our assistance and help."
+                }
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download free E-book",
+                    "icon": "far fa-download"
+                }
+            ],
+            "images": [
+                {
+                    "id":1,
+                    "src": "/images/intro/intro5/home-5-hero-image.png"
+                }
+            ]
+        },
+        {
+            "section": "service-area",
+            "section_title": {
+                "title": "Build Your Dream <span>TODAY</span>",
+                "subtitle": "Start Learning Coding Languages"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/learner/home-5-image-box-01.png"
+                        }
+                    ],
+                    "title": "Idea Discussion",
+                    "description": "Get teamed up with the specialists who work and teach coding for years at famous universities.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/learner/home-5-image-box-02.png"
+                        }
+                    ],
+                    "title": "Web Development",
+                    "description": "Learn to start building a webpage from scratch. You decide your own pace, course and speed.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/learner/home-5-image-box-03.png"
+                        }
+                    ],
+                    "title": "System Administration",
+                    "description": "Learners are encouraged to study the mechanism and structure of system administration.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                },
+                {
+                    "id": 4,
+                    "images": [
+                        {
+                            "src": "/images/learner/home-5-image-box-04.png"
+                        }
+                    ],
+                    "title": "Graphic Design",
+                    "description": "Have a passion for graphics and arts? Show your talents with confidence and self-assertiveness.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                }
+            ]
+        },
+        {
+            "section": "faq-area",
+            "section_title": {
+                "title": "Construct A <span>Stunning</span> Career Perspective",
+                "subtitle": "Everything <strong>MaxCoach</strong>"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Multiple Platforms Supported for Teaching & Studying",
+                    "description": "MaxCoach supports the act of teaching and learning on multiple platforms like online or offline via material downloads. We know things aren’t supposed to be devoured in a short time, you can always access our knowledge base from any device."
+                },
+                {
+                    "id": 2,
+                    "title": "Multiple Course Participation at the Same Time",
+                    "description": "Study for a number of courses at the same time is possible as long as you can afford the fee and time for completing them in the proper time. Learn at your own desired timeline and timetable. Maximum up to 5 course at a time for a learner at MaxCoach."
+                },
+                {
+                    "id": 3,
+                    "title": "Track Study Progress & Deliver Prompt Feedback",
+                    "description": "It’s not just a normal thing to be able to build such a solid online educational system like MaxCoach where your progress is easily tracked and feedback is properly delivered. We promise to keep improving our system for better stability and flexibility."
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/about/about03/about-us-03-image-01.png"
+                }
+            ]
+        },
+        {
+            "section": "funfact-area",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Finished Sessions",
+                    "counter": 1.926
+                },
+                {
+                    "id": 2,
+                    "title": "Online Enrollment",
+                    "suffix": "+",
+                    "counter": 3.092
+                },
+                {
+                    "id": 3,
+                    "title": "Subjects Taught",
+                    "counter": 200
+                },
+                {
+                    "id": 4,
+                    "title": "Satisfaction rate",
+                    "suffix": "%",
+                    "counter": 100
+                }
+            ]
+        }, 
+        {
+            "section": "course-area",
+            "section_title": {
+                "title": "Latest Featured <span>Courses</span>",
+                "subtitle":"Choose where you'd like to begin"
+            }
+        },
+        {
+            "section": "register-guide-area",
+            "section_title": {
+                "title": "Learn At Your <br> Own <span>Pace</span>",
+                "subtitle": "Why hesitate to register?"
+            },
+            "list": [
+                "Select & customize courses to your preferences",
+                "Change the tutor and make arrangements",
+                "Pay for your course in a secure way",
+                "Get the desired certificate delivered at house"
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Get started for free"
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/others/home-5-image-01.png"
+                }
+            ]
+        },
+        {
+            "section": "app-download-area",
+            "section_title": {
+                "title": "Learn on your <span>mobile</span> anytime!",
+                "subtitle": "What are you looking for?",
+                "description": "Save lessons for later and revise or write notes at any time and on multiple devices on your way. Never interfere with activities of enjoyment or other precious moments."
+            },
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download Our App"
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/others/home-5-image-02.png"
+                }
+            ]
+        },
+        {
+            "section": "event-area",
+            "section_title": {
+                "title": "Upcoming <span>Events</span>",
+                "subtitle": "Get in contact now"
+            },
+            "motto": {
+                "text": "Excited about our event?",
+                "path": "/events",
+                "pathText": "View all events "
+            }
+        },
+        {
+            "section": "testimonial-area",
+            "section_title": {
+                "title": "Our <span> top learners'</span> verbatim",
+                "subtitle":"great words about maxcoach"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "title": "High level of efficiency and scientific teaching methods",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Madley Pondor",
+                    "designation": "IT Specialist",
+                    "title": "Professional team of specialists and passionate mentors at reach",
+                    "description": "I need to get a certification for English proficiency and MaxCoach is my best choice. Their tutors are smart and professional when dealing with students.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",
+                    "title": "Highly recommend their courses and teaching system",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-3.jpg"
+                        }
+                    ] 
+                }
+            ]
+        },
+        {
+            "section": "cta-area",
+            "section_title": {
+                "title": "You can be your own guiding star with our help!",
+                "subtitle":"Start today for getting <span>Online Certification</span>"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/start-here",
+                    "content": "Get started for free"
+                }
+            ]
+        }
+    ]
+}

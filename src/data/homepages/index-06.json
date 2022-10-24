@@ -1,0 +1,342 @@
+{
+    "name": "index-06",
+    "content": [
+        {
+            "section": "hero-area",
+            "headings": [
+                {
+                    "id":1,
+                    "content":"Learn At Your Own Pace!"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Get teamed up with people of the same will."
+                }
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download free guidebook",
+                    "icon": "far fa-long-arrow-right",
+                    "hover": "light"
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "src": "/images/intro/intro6/home-6-hero-left-person.png"
+                },
+                {
+                    "id": 2,
+                    "src": "/images/video/home-6-hero-poster-final.jpg"
+                },
+                {
+                    "id": 3,
+                    "src": "/images/intro/intro6/home-6-hero-right-person.png"
+                }
+            ],
+            "video": {
+                "videoId": "eS9Qm4AOOBY",
+                "channel": "youtube"
+            }
+        },
+        {
+            "section": "quote-area",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "title": "Let passion and determination be the guide along the way and develop"
+                },
+                {
+                    "id": 2,
+                    "name": "Madley Pondor",
+                    "designation": "IT Specialist",
+                    "title": "Professional team of specialists and passionate mentors at reach"
+                },
+                {
+                    "id": 3,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",
+                    "title": "I am happy with their arrangement of lessons and subjects."
+                }
+            ]
+        },
+        {
+            "section": "funfact-area",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Finished Sessions",
+                    "counter": 1.926
+                },
+                {
+                    "id": 2,
+                    "title": "Online Enrollment",
+                    "suffix": "+",
+                    "counter": 3.092
+                },
+                {
+                    "id": 3,
+                    "title": "Subjects Taught",
+                    "counter": 200
+                },
+                {
+                    "id": 4,
+                    "title": "Satisfaction rate",
+                    "suffix": "%",
+                    "counter": 100
+                }
+            ]
+        }, 
+        {
+            "section": "service-area",
+            "section_title": {
+                "title": "Services We <span>Can Provide</span> For My Clients.",
+                "subtitle": "Together We Can Create"
+            },
+            "list": [
+                "Select & customize courses to your preferences",
+                "Change the tutor and make arrangements",
+                "Participate in events to join others",
+                "Get the desired certificate delivered at house"
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Get started for free"
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/service/home-6-service-image-01.png"
+                        }
+                    ],
+                    "title": "Graphic Design",
+                    "description": "Have a passion for graphics and arts? Show your talents with confidence and self-assertiveness."
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/service/home-6-service-image-02.png"
+                        }
+                    ],
+                    "title": "Business Administration",
+                    "description": "Learners are encouraged to study the mechanism and structure of system administration."
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/service/home-6-service-image-03.png"
+                        }
+                    ],
+                    "title": "Idea Discussion",
+                    "description": "Get teamed up with the specialists who work and teach coding for years at famous universities."
+                },
+                {
+                    "id": 4,
+                    "images": [
+                        {
+                            "src": "/images/service/home-6-service-image-04.png"
+                        }
+                    ],
+                    "title": "Web Development",
+                    "description": "Learn to start building a webpage from scratch. You decide your own pace, course and speed."
+                }
+            ]
+        },
+        {
+            "section": "course-area",
+            "section_title": {
+                "title": "Latest Featured <span>Courses</span>",
+                "subtitle":"Choose where you'd like to begin"
+            }
+        },
+        {
+            "section": "testimonial-area",
+            "section_title": {
+                "title": "Why People Talk About <span>MaxCoach</span>?"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "description": "I'm a very strict person so I require everything to be organized and neat. MaxCoach guys just got me.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/200/testimonial-avata-02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Mina Hollace",
+                    "designation": "Freelancer",
+                    "description": "I am free to learn at my own pace, follow my own schedule and choose the subject I like. Great study portal for people like me.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/200/testimonial-avata-03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Madley Pondor",
+                    "designation": "IT Specialist",                    
+                    "description": "MaxCoach is my best choice. Their tutors are smart and professional when dealing with students.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/200/testimonial-avata-04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",                    
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/200/testimonial-avata-01.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "brand-area",
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-03.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-04.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-05.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-06.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-colored-01.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "blog-area",
+            "section_title": {
+                "title": "Latest From <span>Our Blogs</span>",
+                "subtitle":"Read for more joyment"
+            }
+        },
+        {
+            "section": "service-area-two",
+            "section_title": {
+                "title": "Glad to <span>Help You</span> Learn",
+                "subtitle":"Wanna transform your life?"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "icon": "linea-basic-flag2",
+                    "title": "Life Mentoring",
+                    "description": "Get some soul healing and guidance for your future career and vocational directions.",
+                    "path": "/start-here"
+                },
+                {
+                    "id": 2,
+                    "icon": "linea-basic-gear",
+                    "title": "Self Development",
+                    "description": "Develop skills for career of various majors including computer science & language competence.",
+                    "path": "/start-here"
+                },
+                {
+                    "id": 3,
+                    "icon": "linea-basic-life-buoy",
+                    "title": "Ask Consultancy",
+                    "description": "Make a reservation with our special consultant to learn what's best for your dream career.",
+                    "path": "/start-here"
+                },
+                {
+                    "id": 4,
+                    "icon": "linea-basic-display",
+                    "title": "Remote Learning",
+                    "description": "Learn from anywhere in the world on desktop, tablet or mobile phone with an Internet connection.",
+                    "path": "/start-here"
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/service/home-6-services-image.png"
+                }
+            ]
+        },
+        {
+            "section": "cta-area",
+            "section_title": {
+                "title": "You can be your own guiding star with our help!",
+                "subtitle":"Start today for getting <span>Online Certification</span>"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/start-here",
+                    "content": "Get started now"
+                }
+            ]
+        }
+    ]
+}

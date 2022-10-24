@@ -1,0 +1,268 @@
+{
+    "name": "index-02",
+    "content": [
+        {
+            "section": "hero-area",
+            "headings": [
+                {
+                    "id":1,
+                    "content":"Distant learning for further expansion"
+                }
+            ],
+            "texts": [
+                {
+                    "id":1,
+                    "content":"Learning is a life-long journey that in fact we never find the terminate stop. Stop searching, enjoy the process."
+                }
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download free guide",
+                    "icon": "far fa-download"
+                }
+            ],
+            "motto": {
+                "text": "Have questions?",
+                "path": "/contact-us",
+                "pathText": "Get Free Form"
+            },  
+            "images": [
+                {
+                    "id":1,
+                    "src": "/images/contact/contact.jpg"
+                }
+            ]
+        },
+        {
+            "section": "brand-area",
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-03.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-04.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-05.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-01.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "course-area",
+            "section_title": {
+                "title": "Featured Online Courses",
+                "subtitle":"Stimulated to learn?"
+            }
+        },
+        {
+            "section": "service-area",
+            "section_title": {
+                "title": "Access <span>Smart Tutoring</span> Program For Benefits.",
+                "subtitle":"Maxcoach available courses"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/learner/h2-learner-01.png"
+                        }
+                    ],
+                    "title": "Customize Preferences",
+                    "description": "Learners are given the right to arrange and customize their study schedule and timetable based on preferences.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/learner/learner-02.png"
+                        }
+                    ],
+                    "title": "Cloud Storage",
+                    "description": "You can store online lessons via online cloud or download to your device and revise lessons on the way.",
+                    "path": "/start-here",
+                    "pathText": "Get Free Quote"
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/learner/h2-learner-02.png"
+                        }
+                    ],
+                    "title": "Multimedia Channels",
+                    "description": "We provide study materials with various formats: video, audio, slides, doc, prints, books and applications.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                }
+            ]
+        },
+        {
+            "section": "video-area",
+            "images": [
+                {
+                    "id": 1,
+                    "src": "/images/video/home-2-popup-video-poster.jpg"
+                }
+            ],
+            "video": {
+                "videoId": "eS9Qm4AOOBY",
+                "channel": "youtube"
+            },
+            "section_title": {
+                "title": "Enjoy Our <span>Companionship</span>",
+                "subtitle": "Get started  <strong>effortlessly</strong>",
+                "description": "Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month."
+            },
+            "motto": {
+                "path": "/start-here",
+                "pathText": "Download free guidebook "
+            }
+        },
+        {
+            "section": "testimonial-area",
+            "section_title": {
+                "title": "Our <span> top learners'</span> verbatim",
+                "subtitle":"great words about maxcoach"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "title": "High level of efficiency and scientific teaching methods",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Madley Pondor",
+                    "designation": "IT Specialist",
+                    "title": "Professional team of specialists and passionate mentors at reach",
+                    "description": "I need to get a certification for English proficiency and MaxCoach is my best choice. Their tutors are smart and professional when dealing with students.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",
+                    "title": "Highly recommend their courses and teaching system",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-3.jpg"
+                        }
+                    ] 
+                }
+            ]
+        },
+        {
+            "section": "cta-area",
+            "section_title": {
+                "title": "You can be your own guiding star with our help!",
+                "subtitle":"Start today for getting <span>Online Certification</span>"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/contact-us",
+                    "content": "Get started for free"
+                }
+            ]
+        },
+        {
+            "section": "funfact-area",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Successfully trained",
+                    "counter": 1789,
+                    "description": "Enrolled Learners"
+                },
+                {
+                    "id": 2,
+                    "title": "Proudly Received",
+                    "counter": 19,
+                    "description": "Countrywide Awards"
+                },
+                {
+                    "id": 3,
+                    "title": "Firmly Established",
+                    "counter": 24,
+                    "description": "local branches"
+                },
+                {
+                    "id": 4,
+                    "title": "Getting Featured on",
+                    "counter": 1090,
+                    "description": "Blog Posts"
+                }
+            ]
+        },
+        {
+            "section": "blog-area",
+            "section_title": {
+                "title": "Most Viewed <span> Best Blogs</span>",
+                "subtitle":"Enjoyable insights"
+            }
+        },
+        {
+            "section": "newsletter-area",
+            "section_title": {
+                "title": "Sign up for our <span>Newsletters</span>",
+                "description":"Enter your email address to register to our newsletter subscription <br class='tw-hidden md:tw-block'>delivered on a regular basis!"
+            }
+        }
+    ]
+}

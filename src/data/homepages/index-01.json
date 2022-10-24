@@ -1,0 +1,269 @@
+{
+    "name": "index-01",
+    "content": [
+        {
+            "section": "hero-area",
+            "headings": [
+                {
+                    "id":1,
+                    "content":"MaxCoach is the lifebuoy"
+                },
+                {
+                    "id":2,
+                    "content":"In Mentoring <br>2B a Better You."
+                }
+            ],
+            "texts": [
+                {
+                    "id":1,
+                    "content":"The right mentoring relationship can be a powerful tool for professional growth. Bark up the right tree."
+                }
+            ],
+            "buttons": [
+                {
+                    "id":1,
+                    "path": "/start-here",
+                    "content":"Download free guide",
+                    "icon": "far fa-download"
+                }
+            ],
+            "images": [
+                {
+                    "id":1,
+                    "src": "/images/intro/intro1/bg-1.jpg"
+                }
+            ]
+        },
+        {
+            "section": "service-area",
+            "section_title": {
+                "title": "Online <span>Coaching Lessons</span> For Remote Learning.",
+                "subtitle":"Education for everyone"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "icon": "linea-basic-flag2",
+                    "title": "Life Mentoring",
+                    "description": "Get some soul healing and guidance for your future career and vocational directions.",
+                    "path": "/start-here",
+                    "pathText": "Start here"
+                },
+                {
+                    "id": 2,
+                    "icon": "linea-basic-gear",
+                    "title": "Self Development",
+                    "description": "Develop skills for career of various majors including computer science & language competence.",
+                    "path": "/start-here",
+                    "pathText": "Discover now"
+                },
+                {
+                    "id": 3,
+                    "icon": "linea-basic-life-buoy",
+                    "title": "Ask Consultancy",
+                    "description": "Make a reservation with our special consultant to learn what's best for your dream career.",
+                    "path": "/start-here",
+                    "pathText": "Get Free Quote"
+                },
+                {
+                    "id": 4,
+                    "icon": "linea-basic-display",
+                    "title": "Remote Learning",
+                    "description": "Learn from anywhere in the world on desktop, tablet or mobile phone with an Internet connection.",
+                    "path": "/start-here",
+                    "pathText": "Start Now"
+                }
+            ]
+        },
+        {
+            "section": "about-area",
+            "section_title": {
+                "title": "Get rid of <span>Old School Assumptions</span>"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "I assist learners in finding new effective belief and get rid of the outdated, discouraged and irrelevant life attitudes. Yo upgrading to be a better you."
+                },
+                {
+                    "id": 2,
+                    "content": "19<sub>years</sub>"
+                },
+                {
+                    "id": 3,
+                    "content": "Work Experience"
+                }
+            ],
+            "anchors": [
+                {
+                    "id": 1,
+                    "path": "/start-here",
+                    "content": "Get Free Guide"
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "src": "/images/others/teracher-quote-1.jpg"
+                }
+            ]
+        }, 
+        {
+            "section": "funfact-area",
+            "section_title": {
+                "title": "Learn the secrets to <span>Life Success</span>, <br/>these people have got the key.​",
+                "subtitle":"MAXIMIZE YOUR POTENTIALS and possibilities"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Registered Enrolls",
+                    "suffix": "+",
+                    "counter": 3.092
+                },
+                {
+                    "id": 2,
+                    "title": "Finished sessions",
+                    "counter": 1.926
+                },
+                {
+                    "id": 3,
+                    "title": "Satisfaction rate",
+                    "suffix": "%",
+                    "counter": 100
+                }
+            ]
+        }, 
+        {
+            "section": "testimonial-area",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Luvic Dubble",
+                    "designation": "Private Tutor",
+                    "description": "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Florence Themes",
+                    "designation": "Multimedia Admin",
+                    "description": "I'm a very strict person so I require everything to be organized and neat. Then, I'll be able to make things right and shine. MaxCoach guys just got me.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Mina Hollace",
+                    "designation": "Freelancer",
+                    "description": "I am free to learn at my own pace, follow my own schedule and choose the subject I want to learn from the syllabus. Great study portal for people like me.",
+                    "images": [
+                        {
+                            "src": "/images/testimonial/70/testimonial-3.jpg"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "section": "video-area",
+            "section_title": {
+                "title": "Learn with all your <span>SENSES​</span>",
+                "subtitle":"The combination of all senses into learning"
+            },
+            "images": [
+                {
+                    "src": "/images/about/about-me/about-me-popup-video-poster.jpg"
+                }
+            ],
+            "video": {
+                "videoId": "eS9Qm4AOOBY",
+                "channel": "youtube"
+            }
+        },
+        {
+            "section": "course-area",
+            "section_title": {
+                "title": "Current Signature Courses",
+                "subtitle":"Learn at your Pace"
+            },
+            "motto": {
+                "text": "Get the most dedicated consultation for your life-changing course. Earn a certification for your effort and passion",
+                "path": "/courses/grid-01",
+                "pathText": "Get Free Guide"
+            }
+        },
+        {
+            "section": "blog-area",
+            "section_title": {
+                "title": "Secrets of learning revealed in blogs",
+                "subtitle":"study with your favorite tutors"
+            },
+            "motto": {
+                "text": "Get into details now?",
+                "path": "/blogs/blog-grid",
+                "pathText": "View all posts"
+            }
+        },
+        {
+            "section": "brand-area",
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-03.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-04.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-05.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "images": [
+                        {
+                            "src": "/images/brand/client-logo-01.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
